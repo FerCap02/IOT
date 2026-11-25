@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619314399395",
+    "project_id": "filament-box",
+    "storage_bucket": "filament-box.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619314399395:android:7738ee5ec0287b777fd716",
+        "android_client_info": {
+          "package_name": "cl.filamentbox.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZj9eHLag8j1p5CdExrlHWSBzaEMxcaOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
